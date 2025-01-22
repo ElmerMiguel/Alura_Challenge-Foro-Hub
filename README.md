@@ -26,7 +26,7 @@ El proyecto está diseñado con una arquitectura por capas:
 
 ## Tecnologías Utilizadas
 
-- **Lenguaje**: Java 17
+- **Lenguaje**: Java
 
 - **Framework Principal**: Spring Boot
 
